@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  port: 8880,
+  port: 5000,
   siteDomain: 'http://localhost:8880',
   countDefault: 10,
   pageDefault: 0,

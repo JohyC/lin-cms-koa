@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/localhost:8880/(.*)",
-      "destination": "/api/proxy"
-    }
-  ]
-}
